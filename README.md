@@ -111,7 +111,7 @@ neuer Messwert 4,57mA werden in der TTN Console angezeigt.
 
 - [URSALINK NC11-N1       Sensornode](https://www.ursalink.com/en/n1-lorawan-sensor-node/)   
 - [Vegawell52 Water Level       Sensor](https://www.vega.com/de-de/produkte/ger%C3%A4tesuche?serialnumber=37987318) 
-[- Payload Decoder v.3 Stack von TTI (Community Edition)](https://github.com/dasdigidings/The_Things_Stack_v3-payload_functions/tree/main/ursalink-uc11-n1)
+- [Payload Decoder v.3 Stack von TTI (Community Edition)](https://github.com/dasdigidings/The_Things_Stack_v3-payload_functions/tree/main/ursalink-uc11-n1)
 - (OLD VERSION)  [v.2 Payload Decoder für die TTN Console (Original von    Ursalink)](https://github.com/Ursalink-CN/ursalink-decoder)
 
 
